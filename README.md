@@ -40,5 +40,5 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/craving-kitchen.git
+git clone https://github.com/sreemayi-25/craving-kitchen.git
 cd craving-kitchen
